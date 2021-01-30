@@ -1,7 +1,7 @@
 module.exports = {
     siteUrl: `https://gajen.co`, // Site domain. Do not include a trailing slash!
 
-    postsPerPage: 8, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
+    postsPerPage: 4, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
     siteTitleMeta: `Gajenddra's Random Ramblings of Thoughts, Stories and Ideas`,
     siteDescriptionMeta: `Gaj, Gajen, Raj, Gajenddra or just Gajenddra Raj made with Ghost CMS and Casper Theme`,
