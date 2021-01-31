@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://cms.gajen.co/",
+    "apiUrl": "https://cms.gajen.co",
     "contentApiKey": "dbb7933518163350c0bf2062d8"
   },
   "production": {
-    "apiUrl": "https://cms.gajen.co/",
+    "apiUrl": "https://cms.gajen.co",
     "contentApiKey": "dbb7933518163350c0bf2062d8"
   }
 }
